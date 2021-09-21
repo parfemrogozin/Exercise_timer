@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="kliky">Push-ups</string>
+    <string name="lehsedy">Sit-ups</string>
+    <string name="start_text">READY</string>
+    <string name="stop_text">STOP!</string>
+</resources>

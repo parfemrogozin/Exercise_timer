@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stopky</string>
+    <string name="kliky">kliky</string>
+    <string name="lehsedy">Lehy sedy</string>
+    <string name="start_text">READY</string>
+    <string name="stop_text">STOP!</string>
+</resources>
